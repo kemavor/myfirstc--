@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int star;
+int helloworld;
 void starline();         // function declaration
 void repchar(char, int); // function declaration
 int main()
